@@ -1,0 +1,210 @@
+[2019/12/30 12:01:17] INFO: an info msg 
+[2019/12/30 12:17:03] INFO: an info msg 
+[2019/12/30 12:17:03] INFO: Avvio procedura di inizializzazione 
+[2019/12/30 12:17:03] INFO: Avvio procedura di parsing 
+[2019/12/30 12:17:03] INFO: Parsing completato 
+[2019/12/30 12:17:03] INFO: Ottenimento di nodi di inizializzazione 
+[2019/12/30 12:17:03] INFO: Ottenimento di edges di inizializzazione 
+[2019/12/30 12:17:03] INFO: Inizializzazione completata 
+[2019/12/30 12:17:03] INFO: Inizio procedura BFS 
+[2019/12/30 12:17:03] INFO: Creazione mappa [GraphNode, Indice] 
+[2019/12/30 12:17:03] INFO: Creazione mappa completata 
+[2019/12/30 12:17:03] INFO: Elemento di partenza visitato ed inserito nella coda 
+[2019/12/30 12:17:03] INFO: Inizio while 
+[2019/12/30 12:17:03] INFO: Dimensione coda: 1 
+[2019/12/30 12:17:03] INFO: Numero di nodi contati: 7 
+[2019/12/30 12:17:03] INFO: Elemento uscito dalla coda e stampato start 
+[2019/12/30 12:17:03] INFO: nodo next a 
+[2019/12/30 12:17:03] INFO: Var counter = 3 
+[2019/12/30 12:17:03] INFO: var nfr = 0 
+[2019/12/30 12:17:03] INFO: Ho inserito nella coda a 
+[2019/12/30 12:17:03] INFO: nodo next b 
+[2019/12/30 12:17:03] INFO: Var counter = 2 
+[2019/12/30 12:17:03] INFO: var nfr = 1 
+[2019/12/30 12:17:03] INFO: Ho inserito nella coda b 
+[2019/12/30 12:17:03] INFO: nodo next c 
+[2019/12/30 12:17:03] INFO: Var counter = 1 
+[2019/12/30 12:17:03] INFO: var nfr = 2 
+[2019/12/30 12:17:03] INFO: Ho inserito nella coda c 
+[2019/12/30 12:17:03] INFO: Dimensione coda: 3 
+[2019/12/30 12:17:03] INFO: Numero di nodi contati: 6 
+[2019/12/30 12:17:03] INFO: Elemento uscito dalla coda e stampato a 
+[2019/12/30 12:17:03] INFO: nodo next d 
+[2019/12/30 12:17:03] INFO: Var counter = 2 
+[2019/12/30 12:17:03] INFO: var nfr = 0 
+[2019/12/30 12:17:03] INFO: Ho inserito nella coda d 
+[2019/12/30 12:17:03] INFO: nodo next e 
+[2019/12/30 12:17:03] INFO: Var counter = 1 
+[2019/12/30 12:17:03] INFO: var nfr = 1 
+[2019/12/30 12:17:03] INFO: Dimensione coda: 3 
+[2019/12/30 12:17:03] INFO: Numero di nodi contati: 5 
+[2019/12/30 12:17:03] INFO: Elemento uscito dalla coda e stampato b 
+[2019/12/30 12:17:03] INFO: nodo next d 
+[2019/12/30 12:17:03] INFO: Var counter = 1 
+[2019/12/30 12:17:03] INFO: var nfr = 0 
+[2019/12/30 12:17:03] INFO: Dimensione coda: 2 
+[2019/12/30 12:17:03] INFO: Numero di nodi contati: 4 
+[2019/12/30 12:17:03] INFO: Elemento uscito dalla coda e stampato c 
+[2019/12/30 12:17:03] INFO: nodo next f 
+[2019/12/30 12:17:03] INFO: Var counter = 1 
+[2019/12/30 12:17:03] INFO: var nfr = 0 
+[2019/12/30 12:17:03] INFO: Ho inserito nella coda f 
+[2019/12/30 12:17:03] INFO: Dimensione coda: 2 
+[2019/12/30 12:17:03] INFO: Numero di nodi contati: 3 
+[2019/12/30 12:17:03] INFO: Elemento uscito dalla coda e stampato d 
+[2019/12/30 12:17:03] INFO: Dimensione coda: 1 
+[2019/12/30 12:17:03] INFO: Numero di nodi contati: 2 
+[2019/12/30 12:17:03] INFO: Elemento uscito dalla coda e stampato f 
+[2019/12/30 12:17:03] INFO: nodo next e 
+[2019/12/30 12:17:03] INFO: Var counter = 1 
+[2019/12/30 12:17:03] INFO: var nfr = 0 
+[2019/12/30 12:17:03] INFO: Ho inserito nella coda e 
+[2019/12/30 12:17:03] INFO: Dimensione coda: 1 
+[2019/12/30 12:17:03] INFO: Numero di nodi contati: 1 
+[2019/12/30 12:17:03] INFO: Elemento uscito dalla coda e stampato e 
+[2019/12/30 12:20:46] INFO: an info msg 
+[2019/12/30 12:20:46] INFO: Avvio procedura di inizializzazione 
+[2019/12/30 12:20:46] INFO: Avvio procedura di parsing 
+[2019/12/30 12:20:46] INFO: Parsing completato 
+[2019/12/30 12:20:46] INFO: Ottenimento di nodi di inizializzazione 
+[2019/12/30 12:20:46] INFO: Ottenimento di edges di inizializzazione 
+[2019/12/30 12:20:46] INFO: Inizializzazione completata 
+[2019/12/30 12:20:46] INFO: Inizio procedura BFS 
+[2019/12/30 12:20:46] INFO: Creazione mappa [GraphNode, Indice] 
+[2019/12/30 12:20:46] INFO: Creazione mappa completata 
+[2019/12/30 12:20:46] INFO: Elemento di partenza visitato ed inserito nella coda 
+[2019/12/30 12:20:46] INFO: Inizio while 
+[2019/12/30 12:20:46] INFO: Ripresa while 
+[2019/12/30 12:20:46] INFO: Dimensione coda: 1 
+[2019/12/30 12:20:46] INFO: Numero di nodi contati: 7 
+[2019/12/30 12:20:46] INFO: Elemento uscito dalla coda e stampato: start 
+[2019/12/30 12:20:46] INFO: nodo next a 
+[2019/12/30 12:20:46] INFO: Var counter = 3 
+[2019/12/30 12:20:46] INFO: var nfr = 0 
+[2019/12/30 12:20:46] INFO: Ho inserito nella coda a 
+[2019/12/30 12:20:46] INFO: nodo next b 
+[2019/12/30 12:20:46] INFO: Var counter = 2 
+[2019/12/30 12:20:46] INFO: var nfr = 1 
+[2019/12/30 12:20:46] INFO: Ho inserito nella coda b 
+[2019/12/30 12:20:46] INFO: nodo next c 
+[2019/12/30 12:20:46] INFO: Var counter = 1 
+[2019/12/30 12:20:46] INFO: var nfr = 2 
+[2019/12/30 12:20:46] INFO: Ho inserito nella coda c 
+[2019/12/30 12:20:46] INFO: Ripresa while 
+[2019/12/30 12:20:46] INFO: Dimensione coda: 3 
+[2019/12/30 12:20:46] INFO: Numero di nodi contati: 6 
+[2019/12/30 12:20:46] INFO: Elemento uscito dalla coda e stampato: a 
+[2019/12/30 12:20:46] INFO: nodo next d 
+[2019/12/30 12:20:46] INFO: Var counter = 2 
+[2019/12/30 12:20:46] INFO: var nfr = 0 
+[2019/12/30 12:20:46] INFO: Ho inserito nella coda d 
+[2019/12/30 12:20:46] INFO: nodo next e 
+[2019/12/30 12:20:46] INFO: Var counter = 1 
+[2019/12/30 12:20:46] INFO: var nfr = 1 
+[2019/12/30 12:20:46] INFO: Ripresa while 
+[2019/12/30 12:20:46] INFO: Dimensione coda: 3 
+[2019/12/30 12:20:46] INFO: Numero di nodi contati: 5 
+[2019/12/30 12:20:46] INFO: Elemento uscito dalla coda e stampato: b 
+[2019/12/30 12:20:46] INFO: nodo next d 
+[2019/12/30 12:20:46] INFO: Var counter = 1 
+[2019/12/30 12:20:46] INFO: var nfr = 0 
+[2019/12/30 12:20:46] INFO: Ripresa while 
+[2019/12/30 12:20:46] INFO: Dimensione coda: 2 
+[2019/12/30 12:20:46] INFO: Numero di nodi contati: 4 
+[2019/12/30 12:20:46] INFO: Elemento uscito dalla coda e stampato: c 
+[2019/12/30 12:20:46] INFO: nodo next f 
+[2019/12/30 12:20:46] INFO: Var counter = 1 
+[2019/12/30 12:20:46] INFO: var nfr = 0 
+[2019/12/30 12:20:46] INFO: Ho inserito nella coda f 
+[2019/12/30 12:20:46] INFO: Ripresa while 
+[2019/12/30 12:20:46] INFO: Dimensione coda: 2 
+[2019/12/30 12:20:46] INFO: Numero di nodi contati: 3 
+[2019/12/30 12:20:46] INFO: Elemento uscito dalla coda e stampato: d 
+[2019/12/30 12:20:46] INFO: Ripresa while 
+[2019/12/30 12:20:46] INFO: Dimensione coda: 1 
+[2019/12/30 12:20:46] INFO: Numero di nodi contati: 2 
+[2019/12/30 12:20:46] INFO: Elemento uscito dalla coda e stampato: f 
+[2019/12/30 12:20:46] INFO: nodo next e 
+[2019/12/30 12:20:46] INFO: Var counter = 1 
+[2019/12/30 12:20:46] INFO: var nfr = 0 
+[2019/12/30 12:20:46] INFO: Ho inserito nella coda e 
+[2019/12/30 12:20:46] INFO: Ripresa while 
+[2019/12/30 12:20:46] INFO: Dimensione coda: 1 
+[2019/12/30 12:20:46] INFO: Numero di nodi contati: 1 
+[2019/12/30 12:20:46] INFO: Elemento uscito dalla coda e stampato: e 
+[2019/12/30 12:26:06] INFO: an info msg 
+[2019/12/30 12:26:06] INFO: Avvio procedura di inizializzazione 
+[2019/12/30 12:26:06] INFO: Avvio procedura di parsing 
+[2019/12/30 12:26:06] INFO: Parsing completato 
+[2019/12/30 12:26:06] INFO: Ottenimento di nodi di inizializzazione 
+[2019/12/30 12:26:06] INFO: Ottenimento di edges di inizializzazione 
+[2019/12/30 12:26:06] INFO: Inizializzazione completata 
+[2019/12/30 12:26:06] INFO: Inizio procedura BFS 
+[2019/12/30 12:26:06] INFO: Creazione mappa [GraphNode, Indice] 
+[2019/12/30 12:26:06] INFO: Creazione mappa completata 
+[2019/12/30 12:26:06] INFO: Elemento di partenza visitato ed inserito nella coda 
+[2019/12/30 12:26:06] INFO: Inizio while 
+[2019/12/30 12:26:06] INFO: Ripresa while 
+[2019/12/30 12:26:06] INFO: Dimensione coda: 1 
+[2019/12/30 12:26:06] INFO: Elemento uscito dalla coda e stampato: start 
+[2019/12/30 12:26:06] INFO: Numero di nodi contati: 7 
+[2019/12/30 12:26:06] INFO: nodo next a 
+[2019/12/30 12:26:06] INFO: Var counter = 3 
+[2019/12/30 12:26:06] INFO: var nfr = 0 
+[2019/12/30 12:26:06] INFO: Ho visitato l'elemento a 
+[2019/12/30 12:26:06] INFO: Ho inserito nella coda a 
+[2019/12/30 12:26:06] INFO: nodo next b 
+[2019/12/30 12:26:06] INFO: Var counter = 2 
+[2019/12/30 12:26:06] INFO: var nfr = 1 
+[2019/12/30 12:26:06] INFO: Ho visitato l'elemento b 
+[2019/12/30 12:26:06] INFO: Ho inserito nella coda b 
+[2019/12/30 12:26:06] INFO: nodo next c 
+[2019/12/30 12:26:06] INFO: Var counter = 1 
+[2019/12/30 12:26:06] INFO: var nfr = 2 
+[2019/12/30 12:26:06] INFO: Ho visitato l'elemento c 
+[2019/12/30 12:26:06] INFO: Ho inserito nella coda c 
+[2019/12/30 12:26:06] INFO: Ripresa while 
+[2019/12/30 12:26:06] INFO: Dimensione coda: 3 
+[2019/12/30 12:26:06] INFO: Elemento uscito dalla coda e stampato: a 
+[2019/12/30 12:26:06] INFO: Numero di nodi contati: 6 
+[2019/12/30 12:26:06] INFO: nodo next d 
+[2019/12/30 12:26:06] INFO: Var counter = 2 
+[2019/12/30 12:26:06] INFO: var nfr = 0 
+[2019/12/30 12:26:06] INFO: Ho visitato l'elemento d 
+[2019/12/30 12:26:06] INFO: Ho inserito nella coda d 
+[2019/12/30 12:26:06] INFO: nodo next e 
+[2019/12/30 12:26:06] INFO: Var counter = 1 
+[2019/12/30 12:26:06] INFO: var nfr = 1 
+[2019/12/30 12:26:06] INFO: Ripresa while 
+[2019/12/30 12:26:06] INFO: Dimensione coda: 3 
+[2019/12/30 12:26:06] INFO: Elemento uscito dalla coda e stampato: b 
+[2019/12/30 12:26:06] INFO: Numero di nodi contati: 5 
+[2019/12/30 12:26:06] INFO: nodo next d 
+[2019/12/30 12:26:06] INFO: Var counter = 1 
+[2019/12/30 12:26:06] INFO: var nfr = 0 
+[2019/12/30 12:26:06] INFO: Ripresa while 
+[2019/12/30 12:26:06] INFO: Dimensione coda: 2 
+[2019/12/30 12:26:06] INFO: Elemento uscito dalla coda e stampato: c 
+[2019/12/30 12:26:06] INFO: Numero di nodi contati: 4 
+[2019/12/30 12:26:06] INFO: nodo next f 
+[2019/12/30 12:26:06] INFO: Var counter = 1 
+[2019/12/30 12:26:06] INFO: var nfr = 0 
+[2019/12/30 12:26:06] INFO: Ho visitato l'elemento f 
+[2019/12/30 12:26:06] INFO: Ho inserito nella coda f 
+[2019/12/30 12:26:06] INFO: Ripresa while 
+[2019/12/30 12:26:06] INFO: Dimensione coda: 2 
+[2019/12/30 12:26:06] INFO: Elemento uscito dalla coda e stampato: d 
+[2019/12/30 12:26:06] INFO: Numero di nodi contati: 3 
+[2019/12/30 12:26:06] INFO: Ripresa while 
+[2019/12/30 12:26:06] INFO: Dimensione coda: 1 
+[2019/12/30 12:26:06] INFO: Elemento uscito dalla coda e stampato: f 
+[2019/12/30 12:26:06] INFO: Numero di nodi contati: 2 
+[2019/12/30 12:26:06] INFO: nodo next e 
+[2019/12/30 12:26:06] INFO: Var counter = 1 
+[2019/12/30 12:26:06] INFO: var nfr = 0 
+[2019/12/30 12:26:06] INFO: Ho visitato l'elemento e 
+[2019/12/30 12:26:06] INFO: Ho inserito nella coda e 
+[2019/12/30 12:26:06] INFO: Ripresa while 
+[2019/12/30 12:26:06] INFO: Dimensione coda: 1 
+[2019/12/30 12:26:06] INFO: Elemento uscito dalla coda e stampato: e 
+[2019/12/30 12:26:06] INFO: Numero di nodi contati: 1 
